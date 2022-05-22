@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/sulavpanthi?tab=repositories)**
+- 👨‍💻 All of my open source python projects are available at **[My Pypi profile](https://pypi.org/user/sulavpanthi/)**
 
 ## 🚀 Languages and Tools:
 
