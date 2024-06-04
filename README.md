@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my open source python projects are available at **[My Pypi profile](https://pypi.org/user/sulavpanthi/)**
-- All of my blogs are available at **[My Medium profile](https://medium.com/@panthisulav4)**
+- All of my blogs are available at **[My Medium profile](https://sulavpanthi.medium.com)**
 
 ## 🚀 Languages and Tools:
 
